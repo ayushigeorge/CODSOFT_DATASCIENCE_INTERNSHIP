@@ -11,5 +11,5 @@
 
 # TASK 3: IRIS FLOWER CLASSIFICATION
 ### DATASET: https://www.google.com/url?q=https://raw.githubusercontent.com/amankharwal/Website-data/master/IRIS.csv&sa=D&source=apps-viewer-frontend&ust=1689441337675906&usg=AOvVaw0PMHUn4SycZI2WagN-Uuyx&hl=en
-### WORKING VIDEO: 
-### CODE: 
+### WORKING VIDEO: https://youtu.be/KTVEh0ggNiQ
+### CODE: https://github.com/ayushigeorge/CODSOFT_DATASCIENCE_INTERNSHIP/blob/main/TASK%203-%20IRIS%20FLOWER%20DETECTION.py
